@@ -5,8 +5,8 @@ import joblib
 
 st.set_page_config(page_title="Food Delivery Time Predictor Model", layout="centered")
 
-MODEL_PATH = "xgb_best.pkl"
-SCALER_PATH = "standard_scaler.pkl"
+MODEL_PATH = "model/xgb_best.pkl"
+SCALER_PATH = "model/standard_scaler.pkl"
 
 FEATURE_ORDER = [
     "Delivery_person_Age",
