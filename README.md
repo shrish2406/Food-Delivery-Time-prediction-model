@@ -1,4 +1,4 @@
-# Delivery Time Predictor 🛵
+# Food Delivery Time Predictor 🛵
 
 A Streamlit web app that predicts food delivery time (in minutes) using a trained XGBoost regression model.
 
@@ -10,7 +10,7 @@ A Streamlit web app that predicts food delivery time (in minutes) using a traine
 
 ## Demo
 
-![App screenshot placeholder]model/images/frontend.png)
+![App screenshot placeholder](model/images/frontend.png)
 
 ## Tech Stack
 
