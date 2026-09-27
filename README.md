@@ -1,2 +1,2 @@
 ﻿# Food-Delivery-Time-prediction-model
-Model is under devlopment and soo will be live 
+
